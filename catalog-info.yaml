@@ -4,7 +4,7 @@ metadata:
   name: "Megan-Docs"
   description: "Documents with cool stuff"
   annotations:
-    github.com/project-slug: PinkGorillas/demo
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
   lifecycle: experimental
