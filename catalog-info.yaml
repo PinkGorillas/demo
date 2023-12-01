@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Megan-Docs"
+  description: "Documents with cool stuff"
+  annotations:
+    github.com/project-slug: PinkGorillas/demo
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "group:default/guests"
